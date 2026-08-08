@@ -1,4 +1,4 @@
-## The En-chive
+## The EN-chive
 
 THE EN-CHIVE is an interactive discography front-end website that showcases the discography of the K-Pop group Enhypen. Through exploring the various webpages, users can learn more about the group and their music.
 
@@ -10,3 +10,9 @@ This project was developed by me, and my goal was to build a fully functional an
 *
 
 ## Features
+
+
+## License
+This project is for educational purposes and is not intended for commercial use.
+
+## Launching The EN-Chive Locally:
