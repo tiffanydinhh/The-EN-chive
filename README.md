@@ -26,7 +26,7 @@ This project was developed to strengthen my front-end development skills, as it 
 Home Page:
 <img width="2842" height="3192" alt="home page" src="https://github.com/user-attachments/assets/35c936e4-0dba-4e49-967c-488de40ae30b" />
 
-Title Track Page:
+Album Page:
 <img width="2842" height="5072" alt="title track page" src="https://github.com/user-attachments/assets/7708f8a8-1019-4eb1-9b70-53cc17bbae7b" />
 
 ## Prerequisites
