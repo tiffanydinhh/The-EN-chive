@@ -30,7 +30,7 @@ function GivenTaken() {
             <div className="titletrack-lyrics-section">
                 <div>
                     <h2 className="lyrics-title">LYRICS:</h2>
-                    <p className="given-taken-lyrics">wake up in day one <br></br>
+                    <p className="titletrack-lyrics">wake up in day one <br></br>
                         첫날의 아침 <br></br>
                         조명이 비춰 <br></br>
                         태양의 눈빛 <br></br>
