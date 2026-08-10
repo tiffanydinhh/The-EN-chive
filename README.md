@@ -20,11 +20,30 @@ This project was developed to strengthen my front-end development skills, as it 
 ## Preview
 
 ## Prerequisites
+Make sure you have the following installed:
+- Node.js (version 24.9.0 or compatible version)
+- npm
 
 ## Installation
+1. Clone the Repository
 
-## Usage
+```bash
+git clone https://github.com/tiffanydinhh/The-EN-chive.git
+cd The-EN-chive
+```
+
+2. Install Dependencies
+
+```bash
+npm install
+```
+
+## Running Development Server Locally:
+```bash
+cd the-en-chive
 npm run dev
+```
+Open the given URL in a browser.
 
 ## License
 This project is for educational purposes and is not intended for commercial use.
