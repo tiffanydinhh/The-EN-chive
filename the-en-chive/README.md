@@ -16,15 +16,44 @@ This project was developed to strengthen my front-end development skills, as it 
 * Animations: Hover animations using CSS transitions
 
 ## Tech Stack
+**Frontend:** React, JSX, CSS, Vite \
+**Backend:** Node.js \
+**Fonts:** PixelifySans, MartianMono, ReemKufiInk \
+**Version Control:** Github \
+**Project Management:** Figma (design reference)
 
 ## Preview
+Home Page: \
+<img width="2842" height="3192" alt="home page" src="https://github.com/user-attachments/assets/35c936e4-0dba-4e49-967c-488de40ae30b" />
+
+Album Page: \
+<img width="2842" height="5072" alt="title track page" src="https://github.com/user-attachments/assets/7708f8a8-1019-4eb1-9b70-53cc17bbae7b" />
 
 ## Prerequisites
+Make sure you have the following installed:
+- Node.js (version 24.9.0 or compatible version)
+- npm
 
 ## Installation
+1. Clone the Repository
 
-## Usage
+```bash
+git clone https://github.com/tiffanydinhh/The-EN-chive.git
+cd The-EN-chive
+```
+
+2. Install Dependencies
+
+```bash
+npm install
+```
+
+## Running Development Server Locally:
+```bash
+cd the-en-chive
 npm run dev
+```
+Open the given URL in a browser.
 
 ## License
 This project is for educational purposes and is not intended for commercial use.
