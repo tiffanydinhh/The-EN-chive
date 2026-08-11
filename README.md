@@ -48,7 +48,7 @@ cd The-EN-chive
 npm install
 ```
 
-## Running Development Server Locally:
+## Running Development Server Locally
 ```bash
 cd the-en-chive
 npm run dev
