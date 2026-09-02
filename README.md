@@ -29,6 +29,11 @@ Home Page: \
 Album Page: \
 <img width="2842" height="5072" alt="title track page" src="https://github.com/user-attachments/assets/7708f8a8-1019-4eb1-9b70-53cc17bbae7b" />
 
+## Future Plans
+* Compatibility across various devices
+* Implement animations and elements to make website more engaging
+* Keep the website updated with latest album releases
+
 ## Prerequisites
 Make sure you have the following installed:
 - Node.js (version 24.9.0 or compatible version)
