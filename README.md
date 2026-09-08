@@ -33,6 +33,7 @@ Album Page: \
 * Compatibility across various devices
 * Implement animations and elements to make website more engaging
 * Keep the website updated with latest album releases
+* Functional about page where users can submit information
 
 ## Prerequisites
 Make sure you have the following installed:
