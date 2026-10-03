@@ -17,7 +17,6 @@ This project was developed to strengthen my front-end development skills, as it 
 
 ## Tech Stack
 **Frontend:** React, JSX, CSS, Vite \
-**Backend:** Node.js \
 **Fonts:** PixelifySans, MartianMono, ReemKufiInk \
 **Version Control:** Github \
 **Project Management:** Figma (design reference)
